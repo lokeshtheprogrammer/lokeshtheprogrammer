@@ -21,8 +21,6 @@
 <img src="https://img.shields.io/badge/BASED_IN-CHENNAI,_IN-a78bfa?style=flat-square&labelColor=0d1117" alt="Chennai, India"/>
 <img src="https://img.shields.io/badge/AWS-CLF--C02_CERTIFIED-FF9900?style=flat-square&labelColor=0d1117" alt="AWS Certified"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/lokeshtheprogrammer/lokeshtheprogrammer/main/assets/divider.svg" alt="" onerror="this.style.display='none'"/>
-
 </div>
 
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
@@ -63,10 +61,9 @@ current:
 </tr>
 </table>
 
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+<!-- SNAKE: re-enable this block after adding .github/workflows/snake.yml and
+     letting it run once (it creates the `output` branch the SVGs live on).
 <div align="center">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> my contributions, being eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshtheprogrammer/lokeshtheprogrammer/output/github-snake-dark.svg" />
@@ -75,6 +72,7 @@ current:
 </picture>
 
 </div>
+-->
 
 <!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
 
