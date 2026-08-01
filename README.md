@@ -53,8 +53,15 @@ current:
 <td width="42%" valign="top">
 
 <div align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=lokeshtheprogrammer&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e&ring_color=7c3aed" alt="GitHub stats" />
-<img width="100%" src="https://streak-stats.demolab.com/?user=lokeshtheprogrammer&hide_border=true&theme=tokyonight&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" alt="Streak" />
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=lokeshtheprogrammer&hide_border=true&theme=tokyonight&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" alt="Contribution streak" />
+
+<!-- github-readme-stats cards are omitted: the shared public instance
+     (github-readme-stats.vercel.app) is returning persistent 503s.
+     To restore them, fork anuraghazra/github-readme-stats, deploy to your
+     own Vercel with a scopeless PAT as env var PAT_1, then use:
+     https://<your-instance>.vercel.app/api?username=lokeshtheprogrammer&... -->
+
 </div>
 
 </td>
@@ -216,14 +223,11 @@ Security investigation contributed to Microsoft's document-conversion library. *
 
 <!-- ══════════════════════════ ACTIVITY ══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ZDOsDGkjrbxHigCsTk/giphy.gif" width="26"/> Activity
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshtheprogrammer&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshtheprogrammer&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&langs_count=10&exclude_repo=00ad,portfolio,MY_FIRST_app,CSA4393_INTERNET-PROGRAMMING&custom_title=Language%20Mix" alt="Top languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=lokeshtheprogrammer&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
