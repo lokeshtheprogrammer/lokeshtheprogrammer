@@ -1,7 +1,7 @@
 <!-- ══════════════════════════ HERO ══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,25:3d1a5c,50:7c3aed,75:a78bfa,100:1a0b2e&height=230&section=header&text=Lokesh%20Prabu%20J&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cloud%20Practitioner&descAlignY=56&descSize=17&animation=fadeIn&stroke=a78bfa&strokeWidth=1" alt="Lokesh Prabu J" />
+<img width="100%" src="https://raw.githubusercontent.com/lokeshtheprogrammer/lokeshtheprogrammer/main/assets/hero.svg" alt="Lokesh Prabu J — AI/ML Engineer, Full-Stack Developer, Cloud Practitioner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=class+Engineer%3A+build().ship().iterate();Agentic+RAG+%C2%B7+Vision+Transformers+%C2%B7+FastAPI;81.4%25+Top-1+on+Food-101+%E2%80%94+IEEE+submission;Zero-hallucination+RAG%2C+live+on+HuggingFace;Open+to+AI%2FML+%26+Full-Stack+roles" alt="Building agentic RAG, vision transformers and FastAPI services" />
@@ -27,34 +27,23 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> whoami
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<div align="center">
 
-I build **AI systems that survive contact with production** — agentic RAG pipelines
-with hallucination grading, hybrid CNN-Transformer vision models, and the
-FastAPI/Node services that put them behind a real endpoint.
+<img width="92%" src="https://raw.githubusercontent.com/lokeshtheprogrammer/lokeshtheprogrammer/main/assets/terminal.svg" alt="Terminal session: whoami, current focus, and availability" />
 
-Right now: **SDE Intern @ Infosys Springboard**, shipping REST APIs, AWS
-infrastructure and CI/CD. Final-year **B.E. CSE @ SIMATS** (CGPA 8.74/10).
+</div>
 
-I care about the unglamorous half of ML — evaluation, grounding,
-reproducibility, and actually shipping.
+I build **AI systems that survive contact with production** — agentic RAG pipelines with
+hallucination grading, hybrid CNN-Transformer vision models, and the FastAPI/Node services that put
+them behind a real endpoint.
 
-```yaml
-current:
-  building:  Self-Corrective RAG  → live on HF Spaces
-  writing:   HCT-CBAM             → IEEE submission
-  learning:  RAG at scale · K8s · LLM evaluation
-  open_to:   AI/ML Engineer · Full-Stack · OSS
-```
-
-</td>
-<td width="42%" valign="top">
+Right now: **SDE Intern @ Infosys Springboard**, shipping REST APIs, AWS infrastructure and CI/CD.
+Final-year **B.E. CSE @ SIMATS** (CGPA 8.74/10). I care about the unglamorous half of ML —
+evaluation, grounding, reproducibility, and actually shipping.
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=lokeshtheprogrammer&hide_border=true&theme=tokyonight&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" alt="Contribution streak" />
+<img width="58%" src="https://streak-stats.demolab.com/?user=lokeshtheprogrammer&hide_border=true&theme=tokyonight&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681" alt="Contribution streak" />
 
 <!-- github-readme-stats cards are omitted: the shared public instance
      (github-readme-stats.vercel.app) is returning persistent 503s.
@@ -63,10 +52,6 @@ current:
      https://<your-instance>.vercel.app/api?username=lokeshtheprogrammer&... -->
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <!-- SNAKE: re-enable this block after adding .github/workflows/snake.yml and
      letting it run once (it creates the `output` branch the SVGs live on).
