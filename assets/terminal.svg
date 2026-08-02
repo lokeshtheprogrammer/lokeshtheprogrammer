@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 372" width="880" height="372" role="img" aria-label="Terminal session: whoami, current focus, and contact status for Lokesh Prabu J">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161326"/>
+      <stop offset="100%" stop-color="#0d0b18"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e1b33"/>
+      <stop offset="100%" stop-color="#171428"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <clipPath id="c1"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="120" dur="0.5s" begin="0.2s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="330" dur="0.7s" begin="0.8s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="200" dur="0.5s" begin="1.7s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="470" dur="0.8s" begin="2.3s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="470" dur="0.8s" begin="2.9s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="470" dur="0.8s" begin="3.5s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="470" dur="0.8s" begin="4.1s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="220" dur="0.5s" begin="5.0s"  fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="34" y="0" height="372" width="0"><animate attributeName="width" from="0" to="430" dur="0.8s" begin="5.6s"  fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <style>
+    .m  { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 14px; }
+    .p  { fill: #a78bfa; }        /* prompt   */
+    .cm { fill: #e2e8f0; }        /* command  */
+    .ok { fill: #86efac; }        /* output   */
+    .k  { fill: #7dd3fc; }        /* key      */
+    .v  { fill: #cbd5e1; }        /* value    */
+    .d  { fill: #64748b; }        /* dim      */
+  </style>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="879" height="371" rx="12" fill="url(#win)" stroke="#2d2748"/>
+  <path d="M12 0.5 H868 A11.5 11.5 0 0 1 879.5 12 V38 H0.5 V12 A11.5 11.5 0 0 1 12 0.5 Z" fill="url(#topbar)"/>
+  <rect x="0" y="38" width="880" height="1.2" fill="url(#edge)" opacity="0.75"/>
+
+  <circle cx="24" cy="19" r="5.5" fill="#ff5f57"/>
+  <circle cx="44" cy="19" r="5.5" fill="#febc2e"/>
+  <circle cx="64" cy="19" r="5.5" fill="#28c840"/>
+  <text x="440" y="24" text-anchor="middle" class="m d" font-size="12">lokesh@dev — zsh — 88×24</text>
+
+  <!-- session -->
+  <g class="m">
+    <g clip-path="url(#c1)"><text x="34" y="76"><tspan class="p">➜</tspan><tspan class="cm" dx="10">whoami</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="34" y="100" class="ok">Lokesh Prabu J — AI/ML Engineer</text></g>
+
+    <g clip-path="url(#c3)"><text x="34" y="140"><tspan class="p">➜</tspan><tspan class="cm" dx="10">cat current.yaml</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="34" y="164"><tspan class="k">building</tspan><tspan class="d" dx="8">:</tspan><tspan class="v" dx="8">Self-Corrective RAG</tspan><tspan class="d" dx="8">→ live on HF Spaces</tspan></text></g>
+    <g clip-path="url(#c5)"><text x="34" y="188"><tspan class="k">research</tspan><tspan class="d" dx="8">:</tspan><tspan class="v" dx="8">HCT-CBAM</tspan><tspan class="d" dx="8">→ 81.4% Top-1 · Food-101</tspan></text></g>
+    <g clip-path="url(#c6)"><text x="34" y="212"><tspan class="k">shipping</tspan><tspan class="d" dx="8">:</tspan><tspan class="v" dx="8">REST APIs · AWS · CI/CD</tspan><tspan class="d" dx="8">@ Infosys</tspan></text></g>
+    <g clip-path="url(#c7)"><text x="34" y="236"><tspan class="k">learning</tspan><tspan class="d" dx="8">:</tspan><tspan class="v" dx="8">RAG at scale · Kubernetes · LLM eval</tspan></text></g>
+
+    <g clip-path="url(#c8)"><text x="34" y="276"><tspan class="p">➜</tspan><tspan class="cm" dx="10">./availability --now</tspan></text></g>
+    <g clip-path="url(#c9)"><text x="34" y="300" class="ok">open to AI/ML &amp; Full-Stack roles · freelance · OSS</text></g>
+
+    <g clip-path="url(#c1)"><text x="34" y="340"><tspan class="p">➜</tspan></text></g>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="52" y="329" width="9" height="16" fill="#a78bfa" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.73;0.86;0.87" dur="7.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
