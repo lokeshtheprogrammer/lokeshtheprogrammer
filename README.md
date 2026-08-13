@@ -221,11 +221,19 @@ Security investigation contributed to Microsoft's document-conversion library. *
 
 </div>
 
-<!-- ══════════════════════════ ACTIVITY ══════════════════════════ -->
+<!-- ══════════════════════════ ACTIVITY & 3D CONTRIB ══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> Activity
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> 3D Contribution Calendar & Activity
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img width="100%" src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</picture>
+
+<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshtheprogrammer&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
 
